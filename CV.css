@@ -1,0 +1,29 @@
+.table1 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+.hr1 {
+  border-top: 3px solid white;
+}
+.hr2 {
+  border-top: 3px solid black;
+}
+.col1 {
+  background-color: #38658f;
+  max-width: 300px;
+  max-height: 1600px;
+}
+.col2 {
+  max-width: 725px;
+  max-height: 1600px;
+  border: solid 3px;
+}
+.div1 {
+  display: flex;
+  gap: 20px;
+}
+.div2 {
+  margin-left: 47px;
+}
